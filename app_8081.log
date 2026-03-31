@@ -1,0 +1,21 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.5)
+
+2026-03-27T11:17:55.823+08:00  INFO 19604 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 21.0.10 with PID 19604 (E:\my_project\springboot_demo_20260327\target\demo-0.0.1-SNAPSHOT.jar started by ZDL in E:\my_project\springboot_demo_20260327)
+2026-03-27T11:17:55.829+08:00  INFO 19604 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-03-27T11:17:56.862+08:00  INFO 19604 --- [demo] [           main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8081 (http)
+2026-03-27T11:17:56.881+08:00  INFO 19604 --- [demo] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-27T11:17:56.881+08:00  INFO 19604 --- [demo] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.20]
+2026-03-27T11:17:56.917+08:00  INFO 19604 --- [demo] [           main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1006 ms
+2026-03-27T11:17:57.360+08:00  INFO 19604 --- [demo] [           main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8081 (http) with context path '/'
+2026-03-27T11:17:57.374+08:00  INFO 19604 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.099 seconds (process running for 2.743)
+2026-03-27T11:17:59.726+08:00  INFO 19604 --- [demo] [nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-27T11:17:59.726+08:00  INFO 19604 --- [demo] [nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-03-27T11:17:59.728+08:00  INFO 19604 --- [demo] [nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
